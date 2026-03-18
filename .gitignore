@@ -1,0 +1,14 @@
+# Ignore data folder
+data/
+
+# Ignore trained weights (these are large)
+*.pth
+*.pt
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Ignore results folder (generated images)
+results/
