@@ -1,5 +1,4 @@
-# Ignore data folder
-data/
+
 
 # Ignore trained weights (these are large)
 *.pth

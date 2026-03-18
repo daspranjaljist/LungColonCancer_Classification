@@ -1,0 +1,13 @@
+i) This project uses the LC25000 Dataset (Lung and Colon Histopathological Images).
+ii) Download the dataset from the original source link:
+https://github.com/tampapath/lung_colon_image_set/blob/master/README.md
+
+iii)Extract the contents.
+Place the lung_colon_image_set folder inside the data/ directory of this project.
+
+
+The LC25000 Dataset creators:
+
+Borkowski, A. A., Bui, M. M., Thomas, L. B., Wilson, C. P., DeLand, L. A., & Mastorides, S. M. (2019). Lung and colon cancer histopathological image dataset (lc25000). arXiv preprint arXiv:1912.12142.
+Download the Dataset from here:
+https://github.com/tampapath/lung_colon_image_set/blob/master/README.md
