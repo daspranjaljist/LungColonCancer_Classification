@@ -145,3 +145,4 @@ The LC25000 Dataset creators:
 
 ###### https://github.com/tampapath/lung\_colon\_image\_set/blob/master/README.md
 
+"# LungColonCancer_Classification" 
